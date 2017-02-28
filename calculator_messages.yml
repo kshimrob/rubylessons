@@ -1,0 +1,17 @@
+# calculator_messages.yml
+# config file
+
+en:
+  welcome: "Welcome to Calculator! Enter your name:"
+  valid_name: "Make sure to use a valid name."
+  num_prompt1: "Please enter a number:"
+  num_prompt2: "Please enter a second number:"
+  valid_num: "Hmmm...that doesn't look like a valid number."
+  valid_command: "Please put in a valid command."
+cn: 
+  welcome: "欢迎来到计算器！输入你的名字:"
+  valid_name: "请确保使用有效的名称."
+  num_prompt1: "请输入数字:"
+  num_prompt2: "请输入第二个数字:"
+  valid_num: "嗯...看起来不是一个有效的数字。"
+  valid_command: "请输入有效的命令。“
